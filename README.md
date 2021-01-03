@@ -4,4 +4,4 @@
 *CSS
 *JS
 ### DEMO
-[Live Preview](brave-boyd-fcb413.netlify.app)
+[Live Preview](https://brave-boyd-fcb413.netlify.app/)
